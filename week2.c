@@ -4,7 +4,7 @@ void setup (){
   pinMode(5,OUTPUT);
   pinMode(6,OUTPUT);
 }
-void loop (){
+void loop (){ 
   digitalWrite(3,1);
   digitalWrite(4,1);
   delay(500);
